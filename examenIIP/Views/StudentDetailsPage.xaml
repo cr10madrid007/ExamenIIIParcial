@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="examenIIP.Views.StudentDetailsPage" Title="{Binding Id}">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry x:Name="Id" Text="{Binding Id}" IsReadOnly="True" />
+            <Entry x:Name="Description" Text="{Binding Description}"  />
+            <Entry x:Name="Monto" Text="{Binding Monto}"  />
+            <DatePicker x:Name="Fecha" Date="{Binding Fecha}" />
+            <Button Text="Actualizar" Clicked="BtnUpdate_Student"/>
+            <Button Text="Eliminar" Clicked="BtnDelete_Student"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

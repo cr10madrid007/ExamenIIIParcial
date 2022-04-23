@@ -1,0 +1,17 @@
+C:\Users\crist\source\repos\examenIIP\examenIIP\bin\Debug\netstandard2.0\examenIIP.deps.json
+C:\Users\crist\source\repos\examenIIP\examenIIP\bin\Debug\netstandard2.0\examenIIP.dll
+C:\Users\crist\source\repos\examenIIP\examenIIP\bin\Debug\netstandard2.0\examenIIP.pdb
+C:\Users\crist\source\repos\examenIIP\examenIIP\obj\Debug\netstandard2.0\examenIIP.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\examenIIP\examenIIP\obj\Debug\netstandard2.0\examenIIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\examenIIP\examenIIP\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\crist\source\repos\examenIIP\examenIIP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\crist\source\repos\examenIIP\examenIIP\obj\Debug\netstandard2.0\Views\StudentsPage.xaml.g.cs
+C:\Users\crist\source\repos\examenIIP\examenIIP\obj\Debug\netstandard2.0\examenIIP.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\examenIIP\examenIIP\obj\Debug\netstandard2.0\examenIIP.AssemblyInfo.cs
+C:\Users\crist\source\repos\examenIIP\examenIIP\obj\Debug\netstandard2.0\examenIIP.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\examenIIP\examenIIP\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\crist\source\repos\examenIIP\examenIIP\obj\Debug\netstandard2.0\examenIIP.dll
+C:\Users\crist\source\repos\examenIIP\examenIIP\obj\Debug\netstandard2.0\refint\examenIIP.dll
+C:\Users\crist\source\repos\examenIIP\examenIIP\obj\Debug\netstandard2.0\examenIIP.pdb
+C:\Users\crist\source\repos\examenIIP\examenIIP\obj\Debug\netstandard2.0\ref\examenIIP.dll
+C:\Users\crist\source\repos\examenIIP\examenIIP\obj\Debug\netstandard2.0\Views\StudentDetailsPage.xaml.g.cs
